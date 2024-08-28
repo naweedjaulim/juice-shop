@@ -2,6 +2,7 @@ name: Snyk Full Platform
 
 # Prerequisites:
 # - Set a SNYK_TOKEN under env secrets in an env called "Snyk"
+# trigger
 
 on:
   push:
